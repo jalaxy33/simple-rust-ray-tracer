@@ -1,5 +1,5 @@
 
-# Rust Ray Tracing
+# Simple Rust Ray Tracer
 
 
 Reference: [The Ray Tracing Road to Rust 🦀](https://the-ray-tracing-road-to-rust.vercel.app/)
